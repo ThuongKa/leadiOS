@@ -1,0 +1,13 @@
+Package: com.yourepo.autoleadfree.autolead
+Name: autolead 
+Version: 1.0
+Size: (Size in Bytes)
+Architecture: iphoneos-arm
+Description: Auto Lead iOS 8 - 10.2
+Maintainer: MMO Private <xxx@gmail.com>
+Author: MMO Private <xxx@gmail.com>
+Section: System
+MD5sum: 9afd107e92a109fd3b1ac130392299f8
+SHA1sum: 09bf0a12d480ccc02e9b383ac1e77a14b73c0b5f
+SHA256sum: 4735bc7c62b6d5b60ef8eedbc537b2f69d6f80856b1af7ec279a6d2f7a872245
+Filename: debs//tool.deb
